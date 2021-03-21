@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Background
   - Ground
+  - garbage
   layers:
   - Default
   - TransparentFX
