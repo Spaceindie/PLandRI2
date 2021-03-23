@@ -1,0 +1,51 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+/Users/landpatricio/Documents/GitHub/PLandRI2/PLandRI2/Tincan_hackathon
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+59481
+Successfully changed project path to: /Users/landpatricio/Documents/GitHub/PLandRI2/PLandRI2/Tincan_hackathon
+/Users/landpatricio/Documents/GitHub/PLandRI2/PLandRI2/Tincan_hackathon
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 56.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/landpatricio/Documents/GitHub/PLandRI2/PLandRI2/Tincan_hackathon/Assets
+GfxDevice: creating device client; threaded=0
+2021-03-23 12:18:00.680 Unity[34737:2601282] iMac preferred device: NVIDIA GeForce GT 755M (high power)
+2021-03-23 12:18:00.680 Unity[34737:2601282] Metal devices available: 1
+2021-03-23 12:18:00.680 Unity[34737:2601282] 0: NVIDIA GeForce GT 755M (high power)
+2021-03-23 12:18:00.681 Unity[34737:2601282] Using device NVIDIA GeForce GT 755M (high power)
+Initializing Metal device caps: NVIDIA GeForce GT 755M
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56737
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.0f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000927 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 50.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.096 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003439 seconds.

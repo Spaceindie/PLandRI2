@@ -33,7 +33,19 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 0
-    boolVariables: []
+    - useVariable: 1
+      name: Global_positivepoints
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    boolVariables:
+    - useVariable: 1
+      name: Bubble_pop
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     stringVariables: []
     vector2Variables:
     - useVariable: 1
@@ -54,5 +66,10 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000000000000000000000000000
-  events: []
+    variableCategoryIDs: 00000000000000000000000000000000000000000000000000000000
+  events:
+  - Bubble Deactive
+  - Bubble Activate
+  - Has Landed
+  - Falling down
+  - Swim up
